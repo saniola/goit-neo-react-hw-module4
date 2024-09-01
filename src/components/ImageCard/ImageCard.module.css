@@ -1,0 +1,7 @@
+.image {
+  object-fit: cover;
+  border-radius: 3px;
+  width: 100%;
+  height: 260px;
+  overflow: hidden;
+}

@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.component {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main {
+  padding-top: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

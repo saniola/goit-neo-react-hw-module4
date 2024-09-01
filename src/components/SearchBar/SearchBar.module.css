@@ -1,0 +1,49 @@
+.component {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  background-color: rgba(57, 57, 239);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75px;
+}
+
+.form {
+  position: relative;
+  margin: 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+  background-color: #fff;
+  padding-right: 30px;
+}
+
+.input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  min-width: 300px;
+  border: none;
+  outline: none;
+}
+
+.button {
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: #fff;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+
+.clearButton {
+  right: 0;
+  position: absolute;
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: #fff;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
